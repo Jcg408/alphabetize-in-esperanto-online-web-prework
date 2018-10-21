@@ -6,4 +6,3 @@ def alphabetize(arr)
         (section.split(" ").collect {|letter| esp_arr.index(letter)}).compact
     end
 end
-end
